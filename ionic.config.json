@@ -1,0 +1,8 @@
+{
+  "name": "higorapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "479b6bad"
+}
